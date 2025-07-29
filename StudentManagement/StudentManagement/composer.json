@@ -1,0 +1,18 @@
+{
+    "name": "hermosura/student-management",
+    "description": "Student Management",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hermosura\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hermosura"
+        }
+    ],
+    "require": {
+    "php": ">=7.4" 
+  }
+}
